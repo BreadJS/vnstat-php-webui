@@ -1,5 +1,5 @@
 <?php
-$dir = "/var/www/html/lol";
+$dir = "/var/www/html";
 $interface = "eth0";
 $rateunit = "0";
 
